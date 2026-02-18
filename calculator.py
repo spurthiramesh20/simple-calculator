@@ -1,5 +1,5 @@
 # calculator.py
-print("Simple Calculator")
+print("calculator App")
 a=10
 b=5
 print("sum",a+b)
